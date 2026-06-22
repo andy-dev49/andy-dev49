@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi, I'm Andy! 
 
-<!--
-**andy-dev49/andy-dev49** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an indie game developer and software programmer who loves breaking down complex logic and building interactive projects from scratch. Whether it's designing a responsive website, tweaking game physics, or training neural networks, I enjoy creating things that just work smoothly.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ What I Do (My Tech Stack)
+
+* **Game Development:** Fully proficient in the **Godot Engine** and **GDScript**, capable of handling game logic, UI integration, and multi-layered performance.
+* **AI & Machine Learning:** Hands-on experience with **Reinforcement Learning**. I understand its core principles and have built functional AI agents utilizing **PyTorch** and **NumPy**.
+* **Web Development:** Capable of designing and programming responsive websites using **JavaScript** and modern web practices.
+* **Scripting & Logic:** Core development using **Python** for algorithm design and automated tasks.
+
+---
+
+### 🌱 Current Focus & Future Goals
+
+I don't believe in standing still. Right now, I'm leveling up my skills and expanding my roadmap:
+
+* 🚀 **Server Plugins & Java:** Learning **Java** to develop custom plugins and technical server configurations.
+* 🛡️ **Cybersecurity:** Exploring the world of cybersecurity to understand vulnerabilities, secure applications, and expand my technical mindset.
+* 🎮 **Next-Gen Game Dev:** Planning to dive into **Unity** to expand my cross-platform development capabilities.
+* 🧠 **Advanced AI:** Pushing my boundaries further with **PyTorch** to develop larger, more complex AI projects and autonomous agents.
+---
+### 📫 Let's Connect!
+* Check out my pinned repositories below to see my code in action.
+* Feel free to reach out if you want to collaborate on a game project, talk server management, or discuss AI concepts!
+
